@@ -41,7 +41,7 @@ Github: https://github.com/edgardopina/m01-x_refactor-html-css
 
 Created by [GitHub: Jose Edgardo Pina](https://github.com/edgardopina).
 
-
+![Deployed page](./assets/images/herokuDeployedPage.png)
 ## Questions
 
 For any additional questions or comments, you can contact me at: <edgardopina@yahoo.com>.
