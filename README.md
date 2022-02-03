@@ -35,9 +35,9 @@ This project consisted of refactoring existing code of a basic web page created 
 
 ## Deployment and Credits
 
-Heroku: https://epina0001-run-buddy.herokuapp.com/
+Heroku: https://epina0002-horiseon.herokuapp.com/
 
-Github: https://github.com/edgardopina/m01-html-css
+Github: https://github.com/edgardopina/m01-x_refactor-html-css
 
 Created by [GitHub: Jose Edgardo Pina](https://github.com/edgardopina).
 
